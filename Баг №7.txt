@@ -1,0 +1,23 @@
+
+****№7_Bug (Bugs_Smoke_Release_23.03.2023)****
+Steps:
+Precondition:
+1. Application capital.com is not installed
+2.Cookies and cache are clear
+
+1. Navigate to capital.com
+2. Click [Burger menu]
+3. Click menu section [Products]
+4. Click menu item [Mobile apps]/ [Spread betting]/ [Web Platform]/ [Free demo account]/ [CFD trading app]
+5. Scroll to block with buttons [Download on App Store] and [Get it on Google play]
+6. Click buttons [Download on App Store] and [Get it on Google play]
+
+
+Additional information: also reproduced elsewhere
+
+Bug is reproduce if * :
+Win 10 Chrome 111 - *
+Win 10 Yandex 23 - *
+Win 10 Opera 97 - *
+Win 10 Firefox 111 - *
+Win 10 Edge 111 - *

@@ -1,0 +1,19 @@
+
+****№6_Bug (Bugs_Smoke_Release_23.03.2023)****
+Steps:
+1. Navigate to capital.com
+2. Select any language, e.g. French (except EN, AR,  ID, VI, TH, CN)
+3. Scroll down to the block Block "Explorer notre plateforme" (Explore our platform)
+4. Tap link [simple à utiliser] (simple to use)
+
+Additional information: 
+This bug actual only for mobile
+In EN, TH, VI, CN it redirects to the page "Capital.com CFD trading app
+Also reproduced elsewhere
+
+Bug is reproduce if * :
+Win 10 Google 111 - 
+Win 10 Yandex 23 - 
+Win 10 Opera 97 - 
+Win 10 Firefox 111 - 
+Win 10 Edge 111 - 
