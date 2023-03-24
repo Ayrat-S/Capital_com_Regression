@@ -8,4 +8,17 @@ Regression Web Capital.com
 Как-раз в этот день вечером состоялся релиз capital.com
 Сделал ре-тест четырех багов на браузерах Chrome, Yandex, Firefox, Opera, Edge.
 
+24.03.2023
+В пятом баге проработал документацию с переводом кнопок на языки IT, ES, AR, FR, RO, PL.
+Воспроизвел баг на этих языках с окружением Win 10 / Google 111 / Yandex 23 / Opera 97 / Firefox 111 / Edge 111.
+
+
+
+
+
+
+
+
+
+
 

@@ -1,0 +1,75 @@
+
+****№5_Bug (Bugs_Smoke_Release_23.03.2023)****
+Steps:
+1. Navigate to capital.com 
+2. Select FCA license 
+3. Select EN language 
+4. Click button [Burger menu] 
+5. Click menu section [Learn to trade] 
+6. Click menu item [Commodities trading guide] 
+7. Click sidebar item [Brent crude oil] 
+8. Select languages EN, IT, ES, AR, FR, RO, PL
+Additional info: (Items, reproducing the bug): link
+
+Bug is reproduce if * :
+*Win 10 Google 111 - EN*, IT*, ES*, AR (fail), FR (fail), RO*, PL*
+*Win 10 Yandex 23 - EN*, IT*, ES*, AR (fail), FR (fail), RO*, PL*
+*Win 10 Opera 97 - EN*, IT*, ES*, AR (fail), FR (fail), RO*, PL*
+*Win 10 Firefox 111 - EN*, IT*, ES*, AR (fail), FR (fail), RO*, PL*
+Win 10 Edge 111 - EN*, IT*, ES*, AR (fail), FR (fail), RO*, PL*
+
+
+EN - IT:
+[Learn to trade] - [Impara a fare trading]
+[Commodities trading guide] - [Guida al trading materie prime]
+[Brent crude oil] - [Petrolio Brent]
+=> Search text: criptovalute
+
+EN - ES:
+[Learn to trade] - [Aprende a hacer trading]
+[Commodities trading guide] - [Guía del mercado de materias primas]
+[Brent crude oil] - [Petróleo Brent]
+=> Search text: criptomonedas
+
+EN - AR:
+[Learn to trade] - [تعلّم التداول]
+[Commodities trading guide] - [دليل تداول السلع]
+[Brent crude oil] - не удалось найти на странице сайдбар с кнопкой [Brent crude oil]
+=> Search text: нет кнопки [Brent crude oil]
+
+EN - FR:
+[Learn to trade] - [Apprendre à trader]
+[Commodities trading guide] - [Guide du trading des matières premières]
+[Brent crude oil] - не удалось найти на странице сайдбар с кнопкой [Brent crude oil]
+=> Search text: нет кнопки [Brent crude oil]
+
+EN - RO:
+[Learn to trade] - [Învață să tranzacționezi]
+[Commodities trading guide] - [Ghidul dumneavoastră pentru commodity trading]
+[Brent crude oil] - [Brent oil]
+=> Search text: cryptomonede
+
+EN - PL:
+[Learn to trade] - [Przegląd]
+[Commodities trading guide] - [Przewodnik po handlu towarami]
+[Brent crude oil] - [Ropa naftowa Brent]
+=> Search text: kryptowalutami
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
