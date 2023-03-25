@@ -1,0 +1,7 @@
+Bug №9 
+9. Tap button [Explore Web Platform] 
+ 
+Возможно старый баг, просьба посмотреть видео. 
+Форма регистрации срезается невидимыми полями. 
+Precondition:   
+1. Landscape screen orientation
