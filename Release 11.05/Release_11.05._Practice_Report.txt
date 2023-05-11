@@ -1,4 +1,4 @@
-Release 11.05.2023 - Practice Report. 
+Practice Report - Release 11.05.2023
 In this document you'll see the number of Bug and comments for them - What did i reprodeuce here?.
 
 Path to the local storage Repository:
