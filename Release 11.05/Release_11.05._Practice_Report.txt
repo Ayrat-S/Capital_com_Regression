@@ -1,7 +1,12 @@
 Release 11.05.2023 - Practice Report.
 
 Bug comments - What did i reprodeuce here? (Date 11.05.2023):
-#1
+#1 (110Mob)
+    Actual Result
+The dropdown [Country] is closed after tapping on the search field
+    Какое тестирование было выполнено?
+- Поле поиска страны: Мобильное функциональное тестирование элемента интерфейса (GUI).
+
 #2
 #3
 #4
@@ -61,11 +66,3 @@ Bug comments - What did i reprodeuce here? (Date 11.05.2023):
 #58
 #59
 #60
-#61
-#62
-#63
-
-
-
-
-
