@@ -1,5 +1,5 @@
 Release 11.05.2023 - Practice Report. 
-In this document you'll see the number of Bug and comments for them - What did i reprodeuce here? (Date 11.05.2023).
+In this document you'll see the number of Bug and comments for them - What did i reprodeuce here?.
 
 Path to the local storage Repository:
 D:\TESTING\Vadim_Ksendzov\33_group\33_31_practice\Helpers Team v.1.0\Capital.com\Regression Web Capital.com\Repositories\Capital_com_Regression
@@ -12,62 +12,180 @@ The dropdown [Country] is closed after tapping on the search field
 - Поле поиска страны: Мобильное функциональное тестирование элемента интерфейса (GUI).
 - Поле поиска страны: Нефункциональное тестирование локализации (язык) и совместимости (кроссбраузерность).
 
-#2
-#3
-#4
-#5
-#6
-#7
-#8
-#9
-#10
-#11
-#12
-#13
-#14
-#15
-#16
-#17
-#18
-#19
-#20
-#21
-#22
-#23
-#24
-#25
-#26
-#27
-#28
-#29
-#30
-#31
-#32
-#33
-#34
-#35
-#36
-#37
-#38
-#39
-#40
-#41
-#42
-#43
-#44
-#45
-#46
-#47
-#48
-#49
-#50
-#51
-#52
-#53
-#54
-#55
-#56
-#57
-#58
-#59
-#60
+#2 Bug (
+
+
+#3 Bug (
+
+
+#4 Bug (
+
+
+#5 Bug (
+
+
+#6 Bug (
+
+
+#7 Bug (
+
+
+#8 Bug (
+
+
+#9 Bug (
+
+
+#10 Bug (
+
+
+#11 Bug (
+
+
+#12 Bug (
+
+
+#13 Bug (
+
+
+#14 Bug (
+
+
+#15 Bug (
+
+
+#16 Bug (
+
+
+#17 Bug (
+
+
+#18 Bug (
+
+
+#19 Bug (
+
+
+#20 Bug (
+
+
+#21 Bug (
+
+
+#22 Bug (
+
+
+#23 Bug (
+
+
+#24 Bug (
+
+
+#25 Bug (
+
+
+#26 Bug (
+
+
+#27 Bug (
+
+
+#28 Bug (
+
+
+#29 Bug (
+
+
+#30 Bug (
+
+
+#31 Bug (
+
+
+#32 Bug (
+
+
+#33 Bug (
+
+
+#34 Bug (
+
+
+#35 Bug (
+
+
+#36 Bug (
+
+
+#37 Bug (
+
+
+#38 Bug (
+
+
+#39 Bug (
+
+
+#40 Bug (
+
+
+#41 Bug (
+
+
+#42 Bug (
+
+
+#43 Bug (
+
+
+#44 Bug (
+
+
+#45 Bug (
+
+
+#46 Bug (
+
+
+#47 Bug (
+
+
+#48 Bug (
+
+
+#49 Bug (
+
+
+#50 Bug (
+
+
+#51 Bug (
+
+
+#52 Bug (
+
+
+#53 Bug (
+
+
+#54 Bug (
+
+
+#55 Bug (
+
+
+#56 Bug (
+
+
+#57 Bug (
+
+
+#58 Bug (
+
+
+#59 Bug (
+
+
+#60 Bug (
+
+
