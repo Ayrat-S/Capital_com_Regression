@@ -23,7 +23,10 @@ The menu item [Partnership Programme] is not displayed
 
 "3
 56Mob"
-
+    Actual Result
+Trading platform page with sign up form is opened (unregistered)
+    Какое тестирование было выполнено?
+- На какой странице открывается форма авторизации?
 
 "4
 163Web"
