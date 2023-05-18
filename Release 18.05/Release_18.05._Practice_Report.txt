@@ -5,8 +5,8 @@ Path to the local storage Repository:
 D:\TESTING\Vadim_Ksendzov\33_group\33_31_practice\Helpers Team v.1.0\Capital.com\Regression Web Capital.com\Repositories\Capital_com_Regression
 
 
-#1 Bug (
-
+#1 Bug (110Mob)
+Обратно сворачивается дроп-даун выбора страны при тапе на поле ввода страны клавиатурой. 
 
 #2 Bug (
 
