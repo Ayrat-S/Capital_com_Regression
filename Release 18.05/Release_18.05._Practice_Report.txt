@@ -41,7 +41,25 @@ Pop-up ""You are being redirected to Capital.com UK pages"" is displayed by clic
 There is a mention of cryptocurrency on the banner [Your guide to trading Brent Crude oil spot] on the page ""trade-brentcrude-oil"", in EN, IT, ES, RO, PL
 License FCA (UK)
 
+"8
+124Loc"
+Какое тестирование было выполнено (Title)? 
+Воспроизведение бага невозможно, в моем регионе нет приложения Capital.com на Google Play (Precondition: The app ""Capital.com"" is installed on device).
 
+"9
+218 web"
+Какое тестирование было выполнено (Title)? 
+Both buttons [Download on the App Store] and [Get it on Google Play] have the same link redirecting to app’s page Capital.com in the same store that depends on device (App Store for web and iOS, Google Play for android) in multiple menu items
+
+"10
+62mob "
+Какое тестирование было выполнено (Title)? 
+Trading platform is opened when tapping the button [Explore web platform] in the articles of menu title [Trading strategies guide], in EN, IT, DE, ES, RU, ZH
+
+"11
+330Web"
+Какое тестирование было выполнено (Title)? 
+Trading platform is not opened by logining via entering a valid email and password when clicking on [numeric values] in widget's column ""Sell""/""Buy"" in menu section [Markets], menu items [Forex/ Indices/ Commodities/ Shares/ Cryptocurrencies]
 
 
 
