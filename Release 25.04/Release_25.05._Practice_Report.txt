@@ -7,11 +7,75 @@ D:\TESTING\Vadim_Ksendzov\33_group\33_31_practice\Helpers Team v.1.0\Capital.com
 
 "1
 110Mob"
-Какое тестирование было выполнено (Title)?
+Какой баг был воспроизведен (Title)?
+The dropdown  [Country] in header is closed after tapping on the search field in this dropdown
 
 "2
 162 Web"
-Какое тестирование было выполнено (Title)?
+Какой баг был воспроизведен (Title)?
+The menu item [Partnership Programme] is missing in the menu section [More]
+
+"3
+56Mob"
+Какой баг был воспроизведен (Title)?
+The link [easy-to-use] redirects to the trading platform in the block ""Explore our platform"", in all the languages except  EN, ID, VI, TH, CN on the main page
+
+"4
+163Web"
+Какой баг был воспроизведен (Title)?
+Block ""Downloads"" is not displayed in the menu section [Ways to trade] -> menu item [MetaTrader 4]
+
+"5
+55web"
+Какой баг был воспроизведен (Title)?
+Error 'ERR_CACHE_MISS' is displayed by clicking button [Back] in any article from search result page.
+
+"6
+118loc"
+Какой баг был воспроизведен (Title)?
+Pop-up ""You are being redirected to Capital.com UK pages"" is displayed by clicking sidebar item [Brent Crude Oil] / [Brent-Öl] in menu section [Education] / [Schulung] in menu item [Commodities trading guide] / [Rohstoffhandel]
+
+"7
+181Web"
+Какой баг был воспроизведен (Title)?
+There is a mention of cryptocurrency on the banner [Your guide to trading Brent Crude oil spot] on the page ""trade-brentcrude-oil"", in EN, IT, ES, RO, PL
+License FCA (UK)
+
+"8
+124Loc "
+Какой баг был воспроизведен (Title)?
+Didn't reproduce - because there is no the app ""Capital.com"" on Google Play.
+
+
+"9
+218 web"
+Какой баг был воспроизведен (Title)?
+Both buttons [Download on the App Store] and [Get it on Google Play] have the same link redirecting to app’s page Capital.com in the same store that depends on device (App Store for web and iOS, Google Play for android) in multiple menu items
+
+"10
+62mob "
+Какой баг был воспроизведен (Title)?
+Trading platform is opened when tapping the button [Explore web platform] in the articles of menu title [Trading strategies guide], in EN, IT, DE, ES, RU, ZH
+
+"11
+330Web"
+Какой баг был воспроизведен (Title)?
+Trading platform is not opened by logining via entering a valid email and password when clicking on [numeric values] in widget's column ""Sell""/""Buy"" in menu section [Markets], menu items [Forex/ Indices/ Commodities/ Shares/ Cryptocurrencies]
+
+"12
+327Web"
+Какой баг был воспроизведен (Title)?
+Buttonn [Go to platform] is not clickable in pop-up  ""We are excited to see you here!"" by clicking on [numeric values] in widget's column ""Sell""/""Buy"" in menu section [Markets], menu items [Forex/ Indices/ Commodities/ Shares/ Cryptocurrencies]
+
+"13
+326Web"
+Какой баг был воспроизведен (Title)?
+Sign up form  isn't opened after clicking to the button [Trade] in menu item  [Partnership programme]
+
+"24
+23Mob"
+Какой баг был воспроизведен (Title)?
+Sticky bar overlays menu sections when tapping dropdown [Burger menu]
 
 
 
