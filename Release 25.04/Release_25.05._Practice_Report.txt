@@ -59,6 +59,29 @@ Buttonn [Go to platform] is not clickable in pop-up  ""We are excited to see you
 326Web"
 Sign up form  isn't opened after clicking to the button [Trade] in menu item  [Partnership programme]
 
+"14
+240Loc"
+Page with error 404 is opened when clicking hyperlink ""PCI Data Security Standards"" in the block ""The best data protection measures. Period."" on the page https://capital.com/why-capital-com ET, HR, RO, FI
+(the page address is enclosed in extra quotes in the <href> tag)
+
+"15
+283Web"
+The sign up form does not load on the first try on the page https://capital.com/search  when the first button is clicked in the block "Steps trading
+
+"16
+226Loc"
+404 error is displayed after clicking link "CCUK Elective Professional Client Request form" in the block "Apply for a professional account" in all languages except EN, AR, CN, RU and link is missing in languages AR, CN, RU
+
+"17
+29Web"
+The page " 404 - Not found" is opened by clicking on the [Base URL Demo] link in [Products and services->Capital.com API>General Information] section
+
+"18
+6Web"
+Didn't reproduce: 
+Trading platform page is refreshed by clicking on the browser's [back] button (playback on Firefox browser).
+
+
 "24
 23Mob"
 Sticky bar overlays menu sections when tapping dropdown [Burger menu]
