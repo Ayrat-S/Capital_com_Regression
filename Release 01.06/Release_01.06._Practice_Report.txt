@@ -9,7 +9,9 @@ D:\TESTING\Vadim_Ksendzov\33_group\33_31_practice\Helpers Team v.1.0\Capital.com
 110Mob"
 The dropdown  [Country] in header is closed after tapping on the search field in this dropdown
 
-
+"3
+56Mob"
+The link [easy-to-use] redirects to the trading platform in the block "Explore our platform", in all the languages except  EN, ID, VI, TH, CN on the main page
 
 
 
