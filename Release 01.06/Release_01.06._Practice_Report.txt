@@ -17,7 +17,13 @@ The link [easy-to-use] redirects to the trading platform in the block "Explore o
 124Loc"
 Didn't reproduce - because there is no the app ""Capital.com"" on Google Play.
 
+"9
+218 web"
+Both buttons [Download on the App Store] and [Get it on Google Play] have the same link redirecting to app’s page Capital.com in the same store that depends on device (App Store for web and iOS, Google Play for android) in multiple menu items
 
+"10
+62mob"
+Trading platform is opened when tapping the button [Explore web platform] in the articles of menu title [Trading strategies guide], in EN, IT, DE, ES, RU, ZH
 
 
 
