@@ -13,7 +13,9 @@ The dropdown  [Country] in header is closed after tapping on the search field in
 56Mob"
 The link [easy-to-use] redirects to the trading platform in the block "Explore our platform", in all the languages except  EN, ID, VI, TH, CN on the main page
 
-
+"8
+124Loc"
+Didn't reproduce - because there is no the app ""Capital.com"" on Google Play.
 
 
 
