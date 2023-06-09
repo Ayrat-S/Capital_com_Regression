@@ -4,4 +4,93 @@ In this document you'll see the number of Bug and comments for them - What did i
 Path to the local storage Repository:
 D:\TESTING\Vadim_Ksendzov\33_group\33_31_practice\Helpers Team v.1.0\Capital.com\Regression Web Capital.com\Repositories\Capital_com_Regression
 
+"1
+110Mob"
+Not reproduced: The dropdown  [Country] in header is closed after tapping on the search field in this dropdown
 
+"2
+162 Web"	
+The menu item [Partnership Programme] is missing in the menu section [More]
+
+"3
+56Mob"	
+The link [easy-to-use] redirects to the trading platform in the block "Explore our platform", in all the languages except  EN, ID, VI, TH, CN on the main page
+
+"4
+163Web"	
+Block "Downloads" is not displayed in the menu section [Products and services] -> menu item [MetaTrader 4]                                                                                                                                   
+"5
+55web"	
+Error 'ERR_CACHE_MISS' is displayed by clicking button [Back] in any article from search result page.
+
+"6
+118loc"	
+Pop-up "You are being redirected to Capital.com UK pages" is displayed by clicking sidebar item [Brent Crude Oil] / [Brent-Öl] in menu section [Education] / [Schulung] in menu item [Commodities trading guide] / [Rohstoffhandel]
+
+"7
+181Web"	
+There is a mention of cryptocurrency on the banner [Your guide to trading Brent Crude oil spot] on the page ""trade-brentcrude-oil"", in EN, IT, ES, RO, PL
+License FCA (UK)
+
+"8
+124Loc "
+Can't reproduce - beacause there are not the capital.com app on Google Play.
+
+"9
+218 web"
+Both buttons [Download on the App Store] and [Get it on Google Play] have the same link redirecting to app’s page Capital.com in the same store that depends on device (App Store for web and iOS, Google Play for android) in multiple menu items
+
+"10
+62mob "
+Trading platform is opened when tapping the button [Explore web platform] in the articles of menu title [Trading strategies guide], in EN, IT, DE, ES, RU, ZH
+
+"11
+330Web"
+Trading platform is not opened by logining via entering a valid email and password when clicking on [numeric values] in widget's column """"Sell""""/""""Buy"""" in menu section [Markets], menu items [Forex/ Indices/ Commodities/ Shares/ Cryptocurrencies]
+
+"13
+326Web"
+Sign up form  isn't opened after clicking to the button [Trade] in menu item  [Partnership programme]
+
+"12
+327Web"
+Buttonn [Go to platform] is not clickable in pop-up  ""We are excited to see you here!"" by clicking on [numeric values] in widget's column ""Sell""/""Buy"" in menu section [Markets], menu items [Forex/ Indices/ Commodities/ Shares/ Cryptocurrencies]
+
+"14
+240Loc"
+Page with error 404 is opened when clicking hyperlink """"PCI Data Security Standards"""" in the block """"The best data protection measures. Period."""" on the page https://capital.com/why-capital-com ET, HR, RO, FI
+(the page address is enclosed in extra quotes in the <href> tag)
+
+"15
+283Web"
+The sign up form does not load on the first try on the page https://capital.com/search  when the first button is clicked in the block ""Steps trading""
+!!! Heisenbug 8/10!"
+
+"16
+226Loc"
+404 error is displayed after clicking link ""CCUK Elective Professional Client Request form"" in the block ""Apply for a professional account"" in all languages except EN, AR, CN, RU and link is missing in languages AR, CN, RU
+
+"17
+29Web"
+The page " 404 - Not found" is opened by clicking on the [Base URL Demo] link in [Products and services->Capital.com API>General Information] section
+
+"18
+6Web"
+Trading platform page is refreshed by clicking on the browser's [back] button (playback on Firefox browser).
+NOTE: An authorized user can go back to capital.com by clicking twice on the browser's back button, but an unauthorized user should click 4 times to go back.
+
+"19
+34Loc"
+Checkboxes marked as "checked" are displayed to the left of the box in the text by clicking on it in the menu item [الرزنامة الاقتصادية (Economic calendar)
+
+"20
+35Web"
+The trading platform page is opened by clicking on button [Trade] in "Trader's Dashboard" block
+
+"21
+25Web"
+The trading platform page is opened by clicking button [Sell]/ [Buy] in trading chart of menu item [Shares trading]
+
+"22
+190Web"
+Error 400 appears in the console in any menu item of menu title [All News] in menu section [News and Analytics]
