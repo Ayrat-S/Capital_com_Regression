@@ -4,3 +4,139 @@ In this document you'll see the number of Bug and comments for them - What did i
 Path to the local storage Repository:
 D:\TESTING\Vadim_Ksendzov\33_group\33_31_practice\Helpers Team v.1.0\Capital.com\Regression Web Capital.com\Repositories\Capital_com_Regression
 
+"1
+162 Web"	The menu item [Partnership Programme] is missing in the menu section [More]
+
+"2
+56Mob"	The link [easy-to-use] redirects to the trading platform in the block "Explore our platform", in all the languages except  EN, ID, VI, TH, CN on the main page
+
+"3
+163Web"	Block "Downloads" is not displayed in the menu section [Products and services] -> menu item [MetaTrader 4]                                                                                                                                   
+"4
+55web"	Error 'ERR_CACHE_MISS' is displayed by clicking button [Back] in any article from search result page.
+
+"5
+118loc"	Pop-up "You are being redirected to Capital.com UK pages" is displayed by clicking sidebar item [Brent Crude Oil] / [Brent-Öl] in menu section [Education] / [Schulung] in menu item [Commodities trading guide] / [Rohstoffhandel]
+
+"6
+181Web"
+There is a mention of cryptocurrency on the banner [Your guide to trading Brent Crude oil spot] on the page ""trade-brentcrude-oil"", in EN, IT, ES, RO, PL
+License FCA (UK)
+
+"7
+124Loc "
+Can't reproduce because precondition is: The app ""Capital.com"" is installed on device
+The mobile app “Capital.com” is opened after selecting the German language(DE) on trading instruments page in the menu item [Cryptocurrencies] of the menu section [Markets]
+
+"8
+218 web"
+Both buttons [Download on the App Store] and [Get it on Google Play] have the same link redirecting to app’s page Capital.com in the same store that depends on device (App Store for web and iOS, Google Play for android) in multiple menu items
+
+"9
+62mob "
+Trading platform is opened when tapping the button [Explore web platform] in the articles of menu title [Trading strategies guide], in EN, IT, DE, ES, RU, ZH
+
+"10
+330Web"
+Trading platform is not opened by logining via entering a valid email and password when clicking on [numeric values] in widget's column ""Sell""/""Buy"" in menu section [Markets], menu items [Forex/ Indices/ Commodities/ Shares/ Cryptocurrencies]
+
+
+"11
+326Web"
+Sign up form  isn't opened after clicking to the button [Trade] in menu item  [Partnership programme]
+
+"12
+327Web"
+Buttonn [Go to platform] is not clickable in pop-up  ""We are excited to see you here!"" by clicking on [numeric values] in widget's column ""Sell""/""Buy"" in menu section [Markets], menu items [Forex/ Indices/ Commodities/ Shares/ Cryptocurrencies]
+
+"13
+240Loc"
+Page with error 404 is opened when clicking hyperlink ""PCI Data Security Standards"" in the block ""The best data protection measures. Period."" on the page https://capital.com/why-capital-com ET, HR, RO, FI
+(the page address is enclosed in extra quotes in the <href> tag)
+
+"14
+283Web"
+The sign up form does not load on the first try on the page https://capital.com/search  when the first button is clicked in the block ""Still looking for a broker you can trust?""
+!!! Heisenbug 8/10!"
+
+"15
+226Loc"
+404 error is displayed after clicking link ""CCUK Elective Professional Client Request form"" in the block ""Apply for a professional account"" in all languages except EN, AR, CN, RU and link is missing in languages AR, CN, RU
+
+"16
+6Web"
+Trading platform page is refreshed by clicking on the browser's [back] button (playback on Firefox browser).
+NOTE: An authorized user can go back to capital.com by clicking twice on the browser's back button, but an unauthorized user should click 4 times to go back.
+
+
+"17
+34Loc"
+Checkboxes marked as "checked" are displayed to the left of the box in the text by clicking on it in the menu item [الرزنامة الاقتصادية (Economic calendar)
+
+"18
+35Web"
+The trading platform page is opened by clicking on button [Trade] in "Trader's Dashboard" block
+
+"19
+25Web"
+The trading platform page is opened by clicking button [Sell]/ [Buy] in trading chart of menu item [Shares trading]
+
+"20
+190Web"
+Error 400 appears in the console in any menu item of menu title [All News] in menu section [News and Analytics]
+
+"21
+98Web"
+System opens capital.com and logs out the user by clicking any button that redirects to trading platform when the Internet is shuted down
+
+"22
+23Mob"
+Sticky bar overlays menu sections when tapping dropdown [Burger menu]
+
+"23
+30Mob"
+Block "Risk warnings" can not be reduced for countries where licences: ASIC, for all languages (except English), SCB for all languages
+
+"24
+130Web"
+The current page is refreshing when in search field in the header writing search request and press enter on the page  "ESG"
+
+"25
+141Web"
+Buttons [numeric values] in columns "sell"/"buy"are not clickable in the article "What are the best technology stocks by market performance?", when the button [numeric values] is gray, due to the JS function attached to the buttons [numeric values], which is not active when the stock exchange is closed.
+
+"26
+34Mob"
+"Can't reproduce because precondition is:
+1. The Capital.com app is installed on the mobile phone
+The app ""Capital.com"" is opened (when it is already installed on the device) by tapping on a title of any asset in the widget “Trading instrument” in menu item [Shares]"
+
+"27
+52Loc"
+The English version of the page "Privacy Policy" in [Sign up] form is linked to the link [Privacy Policy] from any language except EN, DE
+
+"28
+151Web"
+Status code 403 is displayed on all the site in the Console
+
+"29
+93Loc"
+Phrase ""By creating an account, I accept Privacy Policy"" is displayed in English in sign up form.
+
+"30
+172Web"
+Chart line on Widget [Trading instrument] doesn't display price, only "0", when price begins with zero and has 8 numbers after dot (example 0.00000234, 0.00067891)
+
+"31
+173Web"
+The % change of asset price on Widget [Most Traded] differs from the % change on Widget [Trading instrument]
+
+"32
+187Web"
+Error 400 appears in the console after clicking [Start trading now] on the block "Economic Calendar" on the menu item [Economic Calendar]  of the menu section [News and Analytics]
+
+"33
+197Web"
+In the article "The spread of Shariah-compliant finance is good and bad" the widget “Promo Market” overlap the text of the articles
+
+
