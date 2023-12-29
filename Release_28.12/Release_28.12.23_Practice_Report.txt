@@ -1,0 +1,58 @@
+Release 28.12.2023 - Practice Report. 
+In this document you'll see the number of Bug and comments for them - What did i reprodeuce here?.
+
+Path to the local storage Repository:
+D:\TESTING\Vadim_Ksendzov\33_group\33_31_practice\Helpers Team v.1.0\Capital.com\Regression Web Capital.com\Repositories\Capital_com_Regression
+
+"1
+388 Web"
+
+"2
+162 Web"
+
+"3
+55web"
+
+"4
+118loc"
+
+"6
+181Web"
+
+"9
+62mob "
+
+"10
+326Web"
+
+"12
+445Web"
+
+"13
+240Loc"
+
+"14
+283Web"
+
+"15
+6Web"
+
+"16
+34Loc"
+
+"17
+35Web"
+
+"18
+25Web"
+
+"19
+190Web"
+
+
+
+
+
+
+
+
