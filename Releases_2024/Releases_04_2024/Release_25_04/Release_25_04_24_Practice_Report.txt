@@ -3,3 +3,25 @@ In this document you'll see the number of Bug and comments for them - What did i
 
 Retested bugs:
 
+"1
+43Web"
+"3
+37(Web)"
+"4
+36(Web)"
+"5
+35(Web)"
+"6
+42(Web)"
+"7
+39Web"
+"8
+46Web"
+"10
+17Loc"
+"11
+15Loc"
+"12
+16Loc"
+"13
+57Web"
