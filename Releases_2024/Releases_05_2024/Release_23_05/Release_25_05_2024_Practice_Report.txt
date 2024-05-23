@@ -1,0 +1,5 @@
+Release 16.05.2024 - Practice Report. 
+In this document you'll see the number of Bug and comments for them - What did i reprodeuce here?.
+
+Retested bugs:
+
