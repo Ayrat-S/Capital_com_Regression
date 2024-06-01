@@ -1,0 +1,40 @@
+Release 30.05.2024 - Practice Report. 
+In this document you'll see the number of Bug and comments for them - What did i reprodeuce here?.
+
+Retested bugs:
+
+"1
+43Web"
+"
+2
+26Web"
+"3
+36(Web)"
+"4
+35(Web)"
+"5
+42(Web)"
+"6
+39Web"
+"7
+46Web"
+"8
+5Mob"
+"9
+15Loc"
+"10
+16Loc"
+"11
+57Web"
+"12
+29Web"
+"13
+22Mob"
+"14
+23Mob"
+"15
+77Web"
+"16
+45Mob"
+"17
+49Mob"
